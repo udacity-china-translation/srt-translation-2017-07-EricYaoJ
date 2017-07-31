@@ -36,11 +36,11 @@ For example, we'll turn scores on a bunch of
 
 10
 00:00:25,649 --> 00:00:28,439
-individual restaurant reviews, into overall rating.
+individual restaurant reviews, into the overall rating.
 
 11
 00:00:28,440 --> 00:00:31,980
-And it'll clean noisy datasets by removing duplicate entries and sorting them.
+And we'll clean noisy datasets by removing duplicate entries and sorting them.
 
 12
 00:00:31,980 --> 00:00:34,590
@@ -80,9 +80,8 @@ We'll show you how to break problems down into smaller ones.
 
 21
 00:00:57,045 --> 00:01:00,685
-And Sharon and I will demonstrate this process by writing a web crawler together.
+And Charlie and I will demonstrate this process by writing a web crawler together.
 
 22
 00:01:00,685 --> 00:01:02,000
 Let's go and learn some Python.
-
